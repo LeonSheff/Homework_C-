@@ -1,0 +1,15 @@
+C:\Users\LeonSheff\Desktop\Home works\HomeWorks3\bin\Debug\net6.0\HomeWorks3.exe
+C:\Users\LeonSheff\Desktop\Home works\HomeWorks3\bin\Debug\net6.0\HomeWorks3.deps.json
+C:\Users\LeonSheff\Desktop\Home works\HomeWorks3\bin\Debug\net6.0\HomeWorks3.runtimeconfig.json
+C:\Users\LeonSheff\Desktop\Home works\HomeWorks3\bin\Debug\net6.0\HomeWorks3.dll
+C:\Users\LeonSheff\Desktop\Home works\HomeWorks3\bin\Debug\net6.0\HomeWorks3.pdb
+C:\Users\LeonSheff\Desktop\Home works\HomeWorks3\obj\Debug\net6.0\HomeWorks3.csproj.AssemblyReference.cache
+C:\Users\LeonSheff\Desktop\Home works\HomeWorks3\obj\Debug\net6.0\HomeWorks3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LeonSheff\Desktop\Home works\HomeWorks3\obj\Debug\net6.0\HomeWorks3.AssemblyInfoInputs.cache
+C:\Users\LeonSheff\Desktop\Home works\HomeWorks3\obj\Debug\net6.0\HomeWorks3.AssemblyInfo.cs
+C:\Users\LeonSheff\Desktop\Home works\HomeWorks3\obj\Debug\net6.0\HomeWorks3.csproj.CoreCompileInputs.cache
+C:\Users\LeonSheff\Desktop\Home works\HomeWorks3\obj\Debug\net6.0\HomeWorks3.dll
+C:\Users\LeonSheff\Desktop\Home works\HomeWorks3\obj\Debug\net6.0\refint\HomeWorks3.dll
+C:\Users\LeonSheff\Desktop\Home works\HomeWorks3\obj\Debug\net6.0\HomeWorks3.pdb
+C:\Users\LeonSheff\Desktop\Home works\HomeWorks3\obj\Debug\net6.0\HomeWorks3.genruntimeconfig.cache
+C:\Users\LeonSheff\Desktop\Home works\HomeWorks3\obj\Debug\net6.0\ref\HomeWorks3.dll
