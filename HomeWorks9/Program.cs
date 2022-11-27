@@ -15,12 +15,12 @@
 // M = 1; N = 15 -> 120
 // M = 4; N = 8. -> 30 
 
-int Sum(int m, int n)  
-{
-    if(m < n) return Sum(m + 1, n) + m;
-    else return m;
-}
-Console.Write(Sum(4,15));
+// int Sum(int m, int n)  
+// {
+//     if(m < n) return Sum(m + 1, n) + m;
+//     else return m;
+// }
+// Console.Write(Sum(4,8));
 
 /////////////////////////////////////////////////////////////////////////////////////////
 // Напишите программу вычисления функции Аккермана с помощью рекурсии. Даны два неотрицательных числа m и n.
@@ -37,4 +37,4 @@ Console.Write(Sum(4,15));
     
 // }
 
-// Console.WriteLine(Akkerman(1, 2));
+// Console.WriteLine(Akkerman(3, 2));
