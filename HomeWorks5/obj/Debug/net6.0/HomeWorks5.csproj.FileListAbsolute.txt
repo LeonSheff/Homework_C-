@@ -1,0 +1,15 @@
+C:\Users\LeonSheff\Desktop\HomeWorks\HomeWorks5\bin\Debug\net6.0\HomeWorks5.exe
+C:\Users\LeonSheff\Desktop\HomeWorks\HomeWorks5\bin\Debug\net6.0\HomeWorks5.deps.json
+C:\Users\LeonSheff\Desktop\HomeWorks\HomeWorks5\bin\Debug\net6.0\HomeWorks5.runtimeconfig.json
+C:\Users\LeonSheff\Desktop\HomeWorks\HomeWorks5\bin\Debug\net6.0\HomeWorks5.dll
+C:\Users\LeonSheff\Desktop\HomeWorks\HomeWorks5\bin\Debug\net6.0\HomeWorks5.pdb
+C:\Users\LeonSheff\Desktop\HomeWorks\HomeWorks5\obj\Debug\net6.0\HomeWorks5.csproj.AssemblyReference.cache
+C:\Users\LeonSheff\Desktop\HomeWorks\HomeWorks5\obj\Debug\net6.0\HomeWorks5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LeonSheff\Desktop\HomeWorks\HomeWorks5\obj\Debug\net6.0\HomeWorks5.AssemblyInfoInputs.cache
+C:\Users\LeonSheff\Desktop\HomeWorks\HomeWorks5\obj\Debug\net6.0\HomeWorks5.AssemblyInfo.cs
+C:\Users\LeonSheff\Desktop\HomeWorks\HomeWorks5\obj\Debug\net6.0\HomeWorks5.csproj.CoreCompileInputs.cache
+C:\Users\LeonSheff\Desktop\HomeWorks\HomeWorks5\obj\Debug\net6.0\HomeWorks5.dll
+C:\Users\LeonSheff\Desktop\HomeWorks\HomeWorks5\obj\Debug\net6.0\refint\HomeWorks5.dll
+C:\Users\LeonSheff\Desktop\HomeWorks\HomeWorks5\obj\Debug\net6.0\HomeWorks5.pdb
+C:\Users\LeonSheff\Desktop\HomeWorks\HomeWorks5\obj\Debug\net6.0\HomeWorks5.genruntimeconfig.cache
+C:\Users\LeonSheff\Desktop\HomeWorks\HomeWorks5\obj\Debug\net6.0\ref\HomeWorks5.dll
